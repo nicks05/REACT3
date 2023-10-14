@@ -1,0 +1,19 @@
+.display {
+  width: 70%;
+  height: 80vh;
+  border-radius: 10px;
+  padding: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.8);
+}
+.color-bar {
+  display: flex;
+  flex-wrap: wrap;
+  flex: row;
+  margin-bottom: 10px;
+}
+.color-box {
+  width: 42px;
+  height: 42px;
+  margin: 4px;
+  box-shadow: 0px 0px 10px rgb(0, 0, 0, 0.7);
+}
